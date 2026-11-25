@@ -28,9 +28,6 @@ ServerEvents.tags('item', e => {
   e.add('c:doughs', ['refurbished_furniture:dough', 'farmersdelight:wheat_dough']);
   e.add('c:flours', ['pneumaticcraft:wheat_flour', 'refurbished_furniture:wheat_flour']);
 
-  // Knives
-  e.add('occultism:tools/knife', '#c:tools/knife');
-
   e.remove('c:foods/raw_calamari', 'rusticdelight:calamari_slice');
   e.add('rusticdelight:calamari_roll_ingredients', 'rusticdelight:calamari_slice');
 
@@ -276,7 +273,7 @@ ServerEvents.tags('fluid', e => {
 
 ServerEvents.tags('entity_type', e => {
 
-  e.add('craftoria:mob_blacklist', ['artifacts:mimic', 'minecraft:warden', '#c:bosses', /^occultism:(?!possessed).*$/, '#neoforge:bosses']);
+  e.add('craftoria:mob_blacklist', ['artifacts:mimic', 'minecraft:warden', '#c:bosses', '#neoforge:bosses']);
 
   /*
   e.add('justdirethings:creature_catcher_deny', ['ars_nouveau:dummy']);
@@ -284,7 +281,7 @@ ServerEvents.tags('entity_type', e => {
   e.add('mob_grinding_utils:no_swab', '#craftoria:mob_blacklist');
   e.add('industrialforegoing:mob_crusher_blacklist', ['#c:bosses', '#neoforge:bosses']);
   e.add('industrialforegoing:mob_duplicator_blacklist', '#craftoria:mob_blacklist');
-  e.add('justdirethings:paradox_deny', ['occultism:foliot', 'mekanism:robit', 'ars_nouveau:animated_block', '@create']);
+  e.add('justdirethings:paradox_deny', ['mekanism:robit', 'ars_nouveau:animated_block', '@create']);
   */
 });
 

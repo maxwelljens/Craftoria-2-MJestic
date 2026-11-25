@@ -1266,14 +1266,6 @@
     "curseForgeHash": 1940425608,
     "modrinthHash": "2d544163ed3bafe207a8b5cdf03e9d5bc0d30f5f"
   },
-  "occultism-26.1.2-neoforge-1.248.1.jar": {
-    "jarName": "occultism-26.1.2-neoforge-1.248.1.jar",
-    "modId": "occultism",
-    "name": "Occultism",
-    "version": "1.248.1",
-    "curseForgeHash": 3125843005,
-    "modrinthHash": "b5324e6c0ce2d2fbef3196f35739c0c438404ba6"
-  },
   "onlyflax-26.1.2-neoforge-1.0.4.jar": {
     "jarName": "onlyflax-26.1.2-neoforge-1.0.4.jar",
     "modId": "onlyflax",
@@ -1577,14 +1569,6 @@
     "version": "1.13.5-alpha-26.1.2",
     "curseForgeHash": 771585838,
     "modrinthHash": "7b38083c17e9b288555092f0401f50619d7738ed"
-  },
-  "theurgy-26.1.2-neoforge-1.114.0.jar": {
-    "jarName": "theurgy-26.1.2-neoforge-1.114.0.jar",
-    "modId": "theurgy",
-    "name": "Theurgy",
-    "version": "1.114.0",
-    "curseForgeHash": 2610784110,
-    "modrinthHash": "b766bb73b5e74e34a7b19e94c038532e83862e59"
   },
   "titanium-26.1.2-4.0.8.jar": {
     "jarName": "titanium-26.1.2-4.0.8.jar",

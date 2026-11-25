@@ -133,23 +133,6 @@
     "gen_raw": ""
   },
   {
-    "name": "sal_ammoniac",
-    "color": "#88408C",
-    "stages": [
-      "fragment",
-      "gravel",
-      "dust"
-    ],
-    "smelt_to": "theurgy:sal_ammoniac_crystal",
-    "smelt_xp": 0.7,
-    "ore_tag": "c:ores/sal_ammoniac",
-    "ingot_tag": "c:gems/sal_ammoniac",
-    "dust_yield_from_ore": 3,
-    "generative": true,
-    "gen_ore": "",
-    "gen_raw": ""
-  },
-  {
     "name": "lapis",
     "color": "#446FDC",
     "stages": [
@@ -161,42 +144,6 @@
     "smelt_xp": 0.7,
     "ore_tag": "c:ores/lapis",
     "ingot_tag": "c:gems/lapis",
-    "dust_yield_from_ore": 3,
-    "generative": true,
-    "gen_ore": "",
-    "gen_raw": ""
-  },
-  {
-    "name": "iesnium",
-    "color": "#A2CBCC",
-    "stages": [
-      "fragment",
-      "gravel",
-      "dust"
-    ],
-    "smelt_to": "occultism:iesnium_ingot",
-    "smelt_xp": 0.7,
-    "ore_tag": "c:ores/iesnium",
-    "raw_tag": "c:raw_materials/iesnium",
-    "ingot_tag": "c:ingots/iesnium",
-    "dust_yield_from_ore": 3,
-    "generative": true,
-    "gen_ore": "",
-    "gen_raw": ""
-  },
-  {
-    "name": "silver",
-    "color": "#4A636F",
-    "stages": [
-      "fragment",
-      "gravel",
-      "dust"
-    ],
-    "smelt_to": "occultism:silver_ingot",
-    "smelt_xp": 0.7,
-    "ore_tag": "c:ores/silver",
-    "raw_tag": "c:raw_materials/silver",
-    "ingot_tag": "c:ingots/silver",
     "dust_yield_from_ore": 3,
     "generative": true,
     "gen_ore": "",

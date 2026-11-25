@@ -102,11 +102,8 @@
   "minecraft:waxed": null,
   "minecraft:zombie_villager": null,
   "neovitae:block_info": null,
-  "occultism:foliot": null,
-  "occultism:sacrificial": null,
   "reliquary:altar": null,
   "reliquary:cauldron": null,
   "reliquary:mortar": null,
-  "reliquary:pedestal": null,
-  "theurgy:mercury_flux": null
+  "reliquary:pedestal": null
 }

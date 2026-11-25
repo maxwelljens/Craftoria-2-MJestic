@@ -137,13 +137,6 @@ dependency_line_unavailable_color:  #88C8C8C8
 dependency_line_selected_speed:     1.0
 dependency_line_unselected_speed:   0.5
 
-# Theurgy
-[5A3894BACC5E8994]
-background:                         ftbquests:textures/gui/background_white.png; color=#110a1a; tile_size=64
-dependency_line_texture:            theurgy:textures/block/sal_ammoniac/still.png
-dependency_line_uncompleted_color:  #C0f7eff6
-dependency_line_unavailable_color:  #A8f7eff6
-
 # Replication
 [679ED31B5B1D91DA]
 dependency_line_texture:            replication:textures/block/shader.png
@@ -154,11 +147,6 @@ background:                         ftbquests:textures/gui/background_white.png;
 [70FFEE37C7ABD690]
 dependency_line_texture:            ftbquests:textures/gui/lines_ae2.png
 dependency_line_unavailable_color:  #80B3B3A3
-
-# Occultism
-[7269FD2B5B0F0424]
-background:                         ftbquests:textures/gui/background_warm_black.png; color=#F0a81900; tile_size=64
-dependency_line_texture:            occultism:textures/gui/book/summoning.png
 
 # Apotheosis
 [2E72024B18414A17]

@@ -151,10 +151,6 @@
       "jade_chamber": true,
       "jade_wireless": true
     },
-    "occultism": {
-      "foliot": true,
-      "sacrificial": true
-    },
     "apothic_enchanting": {
       "ench": true
     },
@@ -184,9 +180,6 @@
       "crop": true,
       "snowy_status": true,
       "crop.shift_hint": true
-    },
-    "theurgy": {
-      "mercury_flux": true
     },
     "enderio": {
       "soul_bound": true
