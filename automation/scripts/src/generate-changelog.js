@@ -376,14 +376,14 @@ function generateChangelogContent(features, fixes, addedCategories, removedCateg
   const craftoriaEmoji = CONFIG.saveToFile ? "" : " <:craftoria:1276650441869885531>";
   const links = CONFIG.saveToFile
     ? ""
-    : `\n\n### Links\n\n<:curseforge:1117579334031511634> **[Download](https://www.curseforge.com/minecraft/modpacks/craftoria/files/${CONFIG.fileId})**\n📜 **[Changelog](https://github.com/TeamAOF/Craftoria-2/blob/main/changelogs/CHANGELOG.md)**`;
+    : `\n\n### Links\n\n<:curseforge:1117579334031511634> **[Download](https://github.com/maxwelljens/Craftoria-2-MJestic/releases)**\n📜 **[Changelog](https://github.com/maxwelljens/Craftoria-2-MJestic/blob/main/changelogs/CHANGELOG.md)**`;
   const neoforgeVersion = packMetadata.versions?.neoforge || "unknown";
   const header = CONFIG.saveToFile
-    ? `\n_Neoforge_ ${neoforgeVersion} | _[Mod Updates](https://github.com/TeamAOF/Craftoria-2/blob/main/changelogs/changelog_mods_${CONFIG.packVersion}.md)_ | _[Modlist](https://github.com/TeamAOF/Craftoria-2/blob/main/changelogs/modlist_${CONFIG.packVersion}.md)_`
+    ? `\n_Neoforge_ ${neoforgeVersion} | _[Mod Updates](https://github.com/maxwelljens/Craftoria-2-MJestic/blob/main/changelogs/changelog_mods_${CONFIG.packVersion}.md)_ | _[Modlist](https://github.com/maxwelljens/Craftoria-2-MJestic/blob/main/changelogs/modlist_${CONFIG.packVersion}.md)_`
     : "";
 
   const sections = [
-    `${mention}#${CONFIG.saveToFile ? "" : craftoriaEmoji} Craftoria | v${CONFIG.packVersion
+    `${mention}#${CONFIG.saveToFile ? "" : craftoriaEmoji} Craftoria 2: MJestic | v${CONFIG.packVersion
     }${craftoriaEmoji}\n${header}`,
     features.length && `\n\n### Changes/Improvements ⭐\n\n${features.join("\n")}`,
     addedCategories.mods.length && `\n\n### Added Mods ✅\n\n${addedCategories.mods.join("\n")}`,
@@ -403,7 +403,7 @@ function generateChangelogContent(features, fixes, addedCategories, removedCateg
 
 function generateModChangelog(addedCategories, removedCategories, changedCategories, oldPackMetadata) {
   const sections = [
-    `## Craftoria - ${CONFIG.oldPackVersion} -> ${CONFIG.packVersion}`,
+    `## Craftoria 2: MJestic - ${CONFIG.oldPackVersion} -> ${CONFIG.packVersion}`,
     oldPackMetadata &&
     oldPackMetadata.versions &&
     packMetadata.versions &&
@@ -641,7 +641,7 @@ async function generateChangelog() {
     modlistSections.push(`## Shader Packs\n\n${shaderpackEntries.join("\n")}`);
   }
 
-  const modlist = `# Craftoria - v${CONFIG.packVersion}\n\n${modlistSections.join("\n\n")}`;
+  const modlist = `# Craftoria 2: MJestic - v${CONFIG.packVersion}\n\n${modlistSections.join("\n\n")}`;
 
   const modChangelog = generateModChangelog(
     addedLinks,

@@ -1,4 +1,4 @@
-# Craftoria - v0.11.0
+# Craftoria 2: MJestic - v0.11.0
 
 ## Mods
 

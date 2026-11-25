@@ -494,7 +494,7 @@ hash = "6217856e9bb2355a468bbe03fe24bc97bae91f8deb54e9df42f8a4021cde99e6"
 
 [[files]]
 file = "config/bcc-common.json"
-hash = "609ffe5dd23de5c1bd9c06cbced41fb9af9e18aded808c593c04b4d208ff424b"
+hash = "54d7c067113479c3d9d26492335033665a5e0426d3514c1d6b4dbc07f24a0ff2"
 
 [[files]]
 file = "config/beautifiedchatserver.json5"
@@ -702,7 +702,7 @@ hash = "f8e26cfe44eb0e6d4d084b9a2af90f5028da034becee64b6ddfd50cdfd5c7fe1"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "34280a58a0a2db279877cca996fd5b69e40161e76e39d23060d51b89c187a12f"
+hash = "b0e22d1b8401471ce5095b0c3f240cf81e716c59cfa4f807a3d80c1b36b8ce05"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/README.md"
@@ -1098,7 +1098,7 @@ hash = "273aa1c70694dbd1b9c6f03b2644ffdda8ceba5afe2b4125e35a3294abeaeb41"
 
 [[files]]
 file = "config/fancymenu/customization/craftoria.txt"
-hash = "9cdb2829632a1ebec0de4e646aee3028a74ab52fe78749617c05287149aaabb9"
+hash = "69dd4cf447ec688fed2b37aedc6d2ab8b347648b17da3076a8dd8a0eee59eaf3"
 
 [[files]]
 file = "config/fancymenu/customization/create_world_screen_layout.txt"
@@ -1158,7 +1158,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "a7520cb3742103d9dbea471f2b4f57d43f5184476453acf90f4411629eb553fe"
+hash = "3fee454e4b9ba20b9f7fcd7225531932db8a1ace489f4a75edde4f76bfb7b40c"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
@@ -1306,7 +1306,7 @@ hash = "fe4d1f5cf4b98e033531f837c3ab352e6e7817fea5b2469f9399678c74e918d3"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/Getting Started.json5"
-hash = "2cae2f9502d0535a83358e0202ecbb6c59ea7a96b3822a4db88ed4fec8bb8644"
+hash = "218a2de5cabbed652666cf95e7b4a7d609c904bba69bfdc71c357241ce38f245"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/JustDireThings.json5"
@@ -1318,11 +1318,11 @@ hash = "fa876b28d955f1f42084063e561101a9abdc5fa3cf62e845b3ab78e2cf0ce66d"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/getting_started.json5"
-hash = "1e06aa5c37abdf7b8c48f2290cf4b5885871436decc199ec3909ccf67c575cdf"
+hash = "f4f4a8ec731903920a99ad95b50c5fdb56eb438e64dcf260cffd3fc01adaaf93"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/file.json5"
-hash = "50e7fbc8ade138f12ca9a5c5176a8dc8cbcf8b9c1530b4f3025fed0feb12ae67"
+hash = "6dc2d78b603b6697c86a61fb83e923d7a6cf8ea06e18c86c382fd4ba9c851559"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/reward_table.json5"
@@ -3574,7 +3574,7 @@ hash = "5bf381a8cce8143944d679fd8edfd7ba99be4b61bc3b9cfb867387b3dc6a8b8c"
 
 [[files]]
 file = "kubejs/startup_scripts/Items.js"
-hash = "861b5d7e3a14752bb4feebc3fe100b5286908860398097fdcf2e12792c733169"
+hash = "3ee1ea122794a1193348f475d687db8b7cb51ef70879dbab212517bb54055800"
 
 [[files]]
 file = "mods/advancedae.pw.toml"

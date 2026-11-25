@@ -4,13 +4,24 @@ Guidance for AI agents (and humans) working in this repository.
 
 ## What this repository is
 
-This is **Craftoria 2**, a [packwiz](https://packwiz.infra.link/)-managed
-NeoForge modpack — not a software project. There is no application code to
-build or run; the repo *is* the pack, declared as:
+This is **Craftoria 2: MJestic**, a fork of TeamAOF's Craftoria 2 — a
+[packwiz](https://packwiz.infra.link/)-managed NeoForge modpack. It is not a
+software project. There is no application code to build or run; the repo *is*
+the pack, declared as:
 
 - mod metadata (packwiz `.pw.toml` files — never commit mod `.jar`s),
 - mod configs, quest data, and KubeJS scripts,
 - a generated index (`index.toml`) that hashes every pack file.
+
+Naming conventions (don't mix these up when renaming anything):
+
+- **Display name**: `Craftoria 2: MJestic` — used in the main menu, window
+  title, quest book title, crash reports, and release tooling output.
+- **Slug**: `craftoria-2-mjestic` — used in `pack.toml`, `bcc-common.json`,
+  and the automation settings; mirrors the GitHub repo name.
+- **The `craftoria:` KubeJS namespace is deliberately NOT renamed.** It is an
+  internal identifier wired into quest icons, tags (`craftoria:mob_blacklist`)
+  and textures; renaming it would break quest data for no visible gain.
 
 Target versions live in `pack.toml` (Minecraft `26.1.2`, NeoForge
 `26.1.2.97` as of v0.11.0). All content changes are edits to declarative

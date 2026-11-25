@@ -20,10 +20,10 @@ $CURSEFORGE_PROJECT_ID = 1535822
 # =====================================================================//
 
 # This is the modpack name as seen in its CurseForge url: https://www.curseforge.com/minecraft/modpacks/[craftoria]
-$MODPACK_NAME = "craftoria-2"
+$MODPACK_NAME = "craftoria-2-mjestic"
 
 # Name of the Modpack in the ZIP File
-$CLIENT_NAME = "Craftoria 2"
+$CLIENT_NAME = "Craftoria 2: MJestic"
 
 # Version Of The Modpack
 $MODPACK_VERSION = "0.11.0"
@@ -53,7 +53,7 @@ $CLIENT_CHANGELOG_TYPE = "markdown"
 
 # Changelog
 # Must be a single string.
-$CLIENT_CHANGELOG = "[![](https://i.imgur.com/Wkjf3LR.png)](https://github.com/TeamAOF/Craftoria-2/blob/main/changelogs/CHANGELOG.md)"
+$CLIENT_CHANGELOG = "[![](https://i.imgur.com/Wkjf3LR.png)](https://github.com/maxwelljens/Craftoria-2-MJestic/blob/main/changelogs/CHANGELOG.md)"
 
 # =====================================================================//
 #  CURSEFORGE PROJECT SETTINGS
@@ -178,7 +178,7 @@ $CLIENT_ZIP_NAME = "$CLIENT_NAME-$MODPACK_VERSION"
 $LAST_MODPACK_ZIP_NAME = "$CLIENT_NAME-$LAST_MODPACK_VERSION"
 
 # Default: "$CLIENT_NAME $MODPACK_VERSION"
-$CLIENT_FILE_DISPLAY_NAME = "Craftoria 2 - $MODPACK_VERSION"
+$CLIENT_FILE_DISPLAY_NAME = "Craftoria 2: MJestic - $MODPACK_VERSION"
 
 # Can be "markdown", "text" or "html"
 # Default: $CLIENT_CHANGELOG_TYPE
@@ -196,7 +196,7 @@ $SERVER_RELEASE_TYPE = $CLIENT_RELEASE_TYPE
 $SERVER_ZIP_NAME = "$CLIENT_NAME`-Server-$MODPACK_VERSION"
 
 # Default: $SERVER_FILENAME
-$SERVER_FILE_DISPLAY_NAME = "Craftoria 2 Server - $MODPACK_VERSION"
+$SERVER_FILE_DISPLAY_NAME = "Craftoria 2: MJestic Server - $MODPACK_VERSION"
 
 # Path to the ModListCreators output file
 $MODLIST_PATH = "$INSTANCE_ROOT/changelogs/modlist_$MODPACK_VERSION.md"

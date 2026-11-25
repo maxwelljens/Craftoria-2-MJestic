@@ -28,7 +28,7 @@ S:custom_game_intro_skip_text = '';
 B:show_custom_window_icon = 'true';
 S:custom_window_icon_macos = '/config/fancymenu/assets/logo.icns';
 S:custom_window_icon_32 = '/config/fancymenu/assets/logo_32x32.png';
-S:custom_window_title = 'Craftoria 2';
+S:custom_window_title = 'Craftoria 2: MJestic';
 S:custom_window_icon_16 = '/config/fancymenu/assets/logo_16x16.png';
 
 

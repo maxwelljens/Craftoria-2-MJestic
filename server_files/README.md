@@ -1,4 +1,4 @@
-# Installing Craftoria
+# Installing Craftoria 2: MJestic
 
 *** Java 25 is required ***
 

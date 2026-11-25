@@ -1,6 +1,6 @@
 # Craftoria Scripts
 
-Various automation scripts for Craftoria that run on the Bun runtine.
+Various automation scripts for Craftoria 2: MJestic that run on the Bun runtine.
 
 No `node_modules` required, no npm needed, no packages to install - the scripts just work.
 
