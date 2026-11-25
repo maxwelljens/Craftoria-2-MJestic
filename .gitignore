@@ -20,6 +20,7 @@
 !.editorconfig
 !.prettierrc.json
 !InstanceSync.jar
+!AGENTS.md
 !MODLIST.md
 !README.md
 !minecraftinstance.json
