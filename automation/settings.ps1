@@ -53,7 +53,7 @@ $CLIENT_CHANGELOG_TYPE = "markdown"
 
 # Changelog
 # Must be a single string.
-$CLIENT_CHANGELOG = "[![](https://i.imgur.com/Wkjf3LR.png)](https://github.com/maxwelljens/Craftoria-2-MJestic/blob/main/changelogs/CHANGELOG.md)"
+$CLIENT_CHANGELOG = "[![](https://i.imgur.com/Wkjf3LR.png)](https://github.com/maxwelljens/Craftoria-2-MJestic/blob/master/changelogs/CHANGELOG.md)"
 
 # =====================================================================//
 #  CURSEFORGE PROJECT SETTINGS

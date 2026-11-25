@@ -376,10 +376,10 @@ function generateChangelogContent(features, fixes, addedCategories, removedCateg
   const craftoriaEmoji = CONFIG.saveToFile ? "" : " <:craftoria:1276650441869885531>";
   const links = CONFIG.saveToFile
     ? ""
-    : `\n\n### Links\n\n<:curseforge:1117579334031511634> **[Download](https://github.com/maxwelljens/Craftoria-2-MJestic/releases)**\n📜 **[Changelog](https://github.com/maxwelljens/Craftoria-2-MJestic/blob/main/changelogs/CHANGELOG.md)**`;
+    : `\n\n### Links\n\n<:curseforge:1117579334031511634> **[Download](https://github.com/maxwelljens/Craftoria-2-MJestic/releases)**\n📜 **[Changelog](https://github.com/maxwelljens/Craftoria-2-MJestic/blob/master/changelogs/CHANGELOG.md)**`;
   const neoforgeVersion = packMetadata.versions?.neoforge || "unknown";
   const header = CONFIG.saveToFile
-    ? `\n_Neoforge_ ${neoforgeVersion} | _[Mod Updates](https://github.com/maxwelljens/Craftoria-2-MJestic/blob/main/changelogs/changelog_mods_${CONFIG.packVersion}.md)_ | _[Modlist](https://github.com/maxwelljens/Craftoria-2-MJestic/blob/main/changelogs/modlist_${CONFIG.packVersion}.md)_`
+    ? `\n_Neoforge_ ${neoforgeVersion} | _[Mod Updates](https://github.com/maxwelljens/Craftoria-2-MJestic/blob/master/changelogs/changelog_mods_${CONFIG.packVersion}.md)_ | _[Modlist](https://github.com/maxwelljens/Craftoria-2-MJestic/blob/master/changelogs/modlist_${CONFIG.packVersion}.md)_`
     : "";
 
   const sections = [
