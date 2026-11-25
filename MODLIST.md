@@ -66,6 +66,7 @@
   * [EclipticSeasons-Bundles-0.18.0.jar](https://www.curseforge.com/minecraft/mc-mods/ecliptic-seasons-bundles/files/8350348) (by [joe_vettek](https://www.curseforge.com/members/joe_vettek/projects))
   * [Ecologics-NeoFab-26.1.2-2.5.3.jar](https://www.curseforge.com/minecraft/mc-mods/ecologics/files/8309126) (by [SameDifferent](https://www.curseforge.com/members/SameDifferent/projects))
   * [EdivadLib-26.1.2-4.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/edivadlib/files/7961578) (by [3divad99](https://www.curseforge.com/members/3divad99/projects))
+  * [efallingtrees-0.8.0-26.1.2-neoforge.jar](https://www.curseforge.com/minecraft/mc-mods/enhanced-falling-trees/files/9735093) (by [addavriance](https://www.curseforge.com/members/addavriance/projects))
   * [elevatorid-neoforge-26.1-1.16.2.jar](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator/files/7830638) (by [vsngarcia](https://www.curseforge.com/members/vsngarcia/projects))
   * [EnchantmentDescriptions-neoforge-MC26.1.2-26.1.2.6.jar](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions/files/8692947) (by [DarkhaxDev](https://www.curseforge.com/members/DarkhaxDev/projects))
   * [enderio_endergy-9.0.1-alpha.jar](https://www.curseforge.com/minecraft/mc-mods/ender-io-endergy/files/8017163) (by [tterrag1098](https://www.curseforge.com/members/tterrag1098/projects))

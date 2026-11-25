@@ -1,0 +1,13 @@
+name = "Enhanced Falling Trees"
+filename = "efallingtrees-0.8.0-26.1.2-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c57c8fa532559ffda1b1b1702a0f088ec0f6302"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9735093
+project-id = 1078653

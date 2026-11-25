@@ -517,6 +517,14 @@
     "curseForgeHash": 3213923960,
     "modrinthHash": "029f4cb7a2269f9bbd6a80d985480788abd14095"
   },
+  "efallingtrees-0.8.0-26.1.2-neoforge.jar": {
+    "jarName": "efallingtrees-0.8.0-26.1.2-neoforge.jar",
+    "modId": "efallingtrees",
+    "name": "Enhanced Falling Trees",
+    "version": "0.8.0-26.1.2+neoforge",
+    "curseForgeHash": 3710864500,
+    "modrinthHash": "1c57c8fa532559ffda1b1b1702a0f088ec0f6302"
+  },
   "elevatorid-neoforge-26.1-1.16.2.jar": {
     "jarName": "elevatorid-neoforge-26.1-1.16.2.jar",
     "modId": "elevatorid",

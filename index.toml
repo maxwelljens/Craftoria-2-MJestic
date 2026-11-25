@@ -714,7 +714,7 @@ hash = "b6c118018a9061cc19cec83ee8cb33443803420afd37463954184a2989b1e01f"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "b2ea67ec6a10bda0ceb7887145dafe1031e3e4c20c99f1edf5ddc4813aa6864d"
+hash = "83b1ef74587d1706102ef46596c6ade1e43d97eca6d98947e416b3479e81a9f4"
 
 [[files]]
 file = "config/crash_assistant/scripts/log_analysis/example.jexl"
@@ -3919,6 +3919,11 @@ metafile = true
 [[files]]
 file = "mods/enhanced-celestials-2-shader-support.pw.toml"
 hash = "73505fc3cd6b914af5af8ce6909090c5d348ebded8530b5217617bfcaecab2e1"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-falling-trees.pw.toml"
+hash = "e4a100fb2c49938afa61f4f94e369f36d8833290ae6cd915b2dc56d1eb5afbc0"
 metafile = true
 
 [[files]]
