@@ -1,12 +1,12 @@
 name = "craftoria-2-mjestic"
 author = "TeamAOE"
-version = "0.11.0"
+version = "0.12.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8fcd5577d19e65f25dd49d4b28f1d3401367f796458b2c588a834fbb12793cf0"
+hash = "8c07ae197eb0125997c612c0bd29184346d4a9b37f8418612f65054da49c9bf9"
 
 [versions]
 minecraft = "26.1.2"
