@@ -1,0 +1,4 @@
+# Dimension IDs where the "stand on bedrock" void-infusion teleport is DISABLED.
+# Entry into the Void is intended via Overworld bedrock only (or a Voidic Crystal portal);
+# the Nether and the End are excluded so nether-roof/exit-portal bedrock never triggers it.
+bedrockTeleportationDimensionBlacklist = ["minecraft:the_nether", "minecraft:the_end", "undergarden:undergarden"]

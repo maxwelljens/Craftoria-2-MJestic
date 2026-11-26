@@ -262,5 +262,146 @@
     "generative": true,
     "gen_ore": "",
     "gen_raw": ""
+  },
+  {
+    "name": "cloggrum",
+    "color": "#766251",
+    "stages": [
+      "fragment",
+      "gravel",
+      "dust"
+    ],
+    "smelt_to": "undergarden:cloggrum_ingot",
+    "smelt_xp": 0.7,
+    "ore_tag": "c:ores/cloggrum",
+    "raw_tag": "c:raw_materials/cloggrum",
+    "ingot_tag": "c:ingots/cloggrum",
+    "dust_yield_from_ore": 3,
+    "generative": true,
+    "gen_ore": "",
+    "gen_raw": ""
+  },
+  {
+    "name": "froststeel",
+    "color": "#8197B9",
+    "stages": [
+      "fragment",
+      "gravel",
+      "dust"
+    ],
+    "smelt_to": "undergarden:froststeel_ingot",
+    "smelt_xp": 0.7,
+    "ore_tag": "c:ores/froststeel",
+    "raw_tag": "c:raw_materials/froststeel",
+    "ingot_tag": "c:ingots/froststeel",
+    "dust_yield_from_ore": 3,
+    "generative": true,
+    "gen_ore": "",
+    "gen_raw": ""
+  },
+  {
+    "name": "utherium",
+    "color": "#9E3F3C",
+    "stages": [
+      "fragment",
+      "gravel",
+      "dust"
+    ],
+    "smelt_to": "undergarden:utheric_cluster",
+    "smelt_xp": 1.0,
+    "ore_tag": "c:ores/utherium",
+    "ingot_tag": "c:gems/utherium",
+    "dust_yield_from_ore": 3,
+    "generative": true,
+    "gen_ore": "",
+    "gen_raw": ""
+  },
+  {
+    "name": "regalium",
+    "color": "#C78E49",
+    "stages": [
+      "fragment",
+      "gravel",
+      "dust"
+    ],
+    "smelt_to": "undergarden:regalium_crystal",
+    "smelt_xp": 1.0,
+    "ore_tag": "c:ores/regalium",
+    "ingot_tag": "c:gems/regalium",
+    "dust_yield_from_ore": 3,
+    "generative": true,
+    "gen_ore": "",
+    "gen_raw": ""
+  },
+  {
+    "name": "rogdorium",
+    "color": "#5F7B8C",
+    "stages": [
+      "fragment",
+      "gravel",
+      "dust"
+    ],
+    "smelt_to": "undergarden:rogdorium",
+    "smelt_xp": 0.7,
+    "ore_tag": "c:ores/rogdorium",
+    "ingot_tag": "c:ingots/rogdorium",
+    "dust_yield_from_ore": 3,
+    "generative": true,
+    "gen_ore": "",
+    "gen_raw": ""
+  },
+  {
+    "name": "titanite",
+    "color": "#36836E",
+    "stages": [
+      "fragment",
+      "gravel",
+      "dust"
+    ],
+    "smelt_to": "voidscape:titanite_chunk",
+    "smelt_xp": 1.5,
+    "dust_yield_from_ore": 3,
+    "extra_ore_items": [
+      "voidscape:titanite_ore"
+    ],
+    "generative": true,
+    "gen_ore": "",
+    "gen_raw": ""
+  },
+  {
+    "name": "flesh",
+    "color": "#D4835E",
+    "stages": [
+      "fragment",
+      "gravel",
+      "dust"
+    ],
+    "smelt_to": "voidscape:flesh_chunk",
+    "smelt_xp": 1.5,
+    "dust_yield_from_ore": 3,
+    "extra_ore_items": [
+      "voidscape:flesh_ore"
+    ],
+    "generative": true,
+    "gen_ore": "",
+    "gen_raw": ""
+  },
+  {
+    "name": "strange",
+    "color": "#9F4382",
+    "stages": [
+      "fragment",
+      "gravel",
+      "dust"
+    ],
+    "smelt_to": "voidscape:strange_pearl",
+    "smelt_xp": 1.5,
+    "dust_yield_from_ore": 3,
+    "extra_ore_items": [
+      "voidscape:strange_ore"
+    ],
+    "generative": true,
+    "gen_ore": "",
+    "gen_raw": ""
   }
 ]

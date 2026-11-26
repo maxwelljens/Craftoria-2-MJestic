@@ -1,0 +1,162 @@
+{
+  id: "5D720C8C8B6C0F36",
+  group: "07A79347BA55DCA4",
+  order_index: 0,
+  icon: {
+    id: "undergarden:catalyst",
+    count: 1,
+  },
+  filename: "undergarden",
+  default_quest_shape: "",
+  default_hide_dependency_lines: false,
+  autofocus_id: "7FCAD6A5E1E3E675",
+  quests: [
+    {
+      icon: {
+        id: "undergarden:catalyst",
+        count: 1,
+      },
+      x: 0.0,
+      y: 0.0,
+      size: 1.5,
+      id: "7FCAD6A5E1E3E675",
+      tasks: [
+        {
+          id: "84D4B1E8C6F461BA",
+          type: "item",
+          item: {
+            id: "undergarden:catalyst",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 0.0,
+      y: 2.25,
+      dependencies: [
+        "7FCAD6A5E1E3E675",
+      ],
+      size: 1.0,
+      id: "535CBC1990BED022",
+      tasks: [
+        {
+          id: "2BDC651BCB60CC90",
+          type: "checkmark",
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "undergarden:regalium_crystal",
+        count: 1,
+      },
+      x: 0.0,
+      y: 4.5,
+      dependencies: [
+        "535CBC1990BED022",
+      ],
+      size: 1.0,
+      id: "E53F42840981010D",
+      tasks: [
+        {
+          id: "7F5EF80ED076B727",
+          type: "item",
+          item: {
+            id: "undergarden:raw_cloggrum",
+            count: 1,
+          },
+        },
+        {
+          id: "15B98A98DAF44031",
+          type: "item",
+          item: {
+            id: "undergarden:froststeel_ingot",
+            count: 1,
+          },
+        },
+        {
+          id: "E5C018AADA4BBF33",
+          type: "item",
+          item: {
+            id: "undergarden:utherium_crystal",
+            count: 1,
+          },
+        },
+        {
+          id: "B23FF5A66ADE629E",
+          type: "item",
+          item: {
+            id: "undergarden:forgotten_ingot",
+            count: 1,
+          },
+        },
+        {
+          id: "6AD2F8B5C4638CD9",
+          type: "item",
+          item: {
+            id: "undergarden:regalium_crystal",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "undergarden:forgotten_ingot",
+        count: 1,
+      },
+      x: 0.0,
+      y: 6.75,
+      dependencies: [
+        "E53F42840981010D",
+      ],
+      size: 1.0,
+      id: "7515BD2C472FC678",
+      tasks: [
+        {
+          id: "7E1DC3E574E02BC7",
+          type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "EF15590CE5A20335",
+          type: "item",
+          item: {
+            id: "undergarden:forgotten_ingot",
+            count: 1,
+          },
+          count: 2,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "undergarden:forgotten_upgrade_smithing_template",
+        count: 1,
+      },
+      x: 0.0,
+      y: 9.0,
+      dependencies: [
+        "7515BD2C472FC678",
+      ],
+      size: 1.0,
+      id: "374F5718C3C0B63A",
+      tasks: [
+        {
+          id: "0D96A79893106EB9",
+          type: "item",
+          item: {
+            id: "undergarden:forgotten_upgrade_smithing_template",
+            count: 1,
+          },
+        },
+      ],
+    },
+  ],
+  quest_links: [
+  ],
+  images: [
+  ],
+}

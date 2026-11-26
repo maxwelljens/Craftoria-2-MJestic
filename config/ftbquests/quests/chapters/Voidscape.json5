@@ -1,0 +1,165 @@
+{
+  id: "BDFDB1D9E3DAA70C",
+  group: "07A79347BA55DCA4",
+  order_index: 1,
+  icon: {
+    id: "voidscape:astral_crystal",
+    count: 1,
+  },
+  filename: "voidscape",
+  default_quest_shape: "",
+  default_hide_dependency_lines: false,
+  autofocus_id: "0C35F86DA39D72C6",
+  quests: [
+    {
+      icon: {
+        id: "voidscape:charred_bone",
+        count: 1,
+      },
+      x: 0.0,
+      y: 0.0,
+      size: 1.5,
+      id: "0C35F86DA39D72C6",
+      tasks: [
+        {
+          id: "74DB5F778F913307",
+          type: "checkmark",
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "voidscape:astral_crystal",
+        count: 1,
+      },
+      x: 0.0,
+      y: 2.25,
+      dependencies: [
+        "0C35F86DA39D72C6",
+      ],
+      size: 1.0,
+      id: "B32D3112FE3B51B4",
+      tasks: [
+        {
+          id: "20D2EBAE5CAF2F79",
+          type: "item",
+          item: {
+            id: "voidscape:ethereal_essence",
+            count: 1,
+          },
+        },
+        {
+          id: "0885E14204AF5B82",
+          type: "item",
+          item: {
+            id: "voidscape:voidic_crystal",
+            count: 1,
+          },
+        },
+        {
+          id: "89079B2C5282A56E",
+          type: "item",
+          item: {
+            id: "voidscape:titanite_chunk",
+            count: 1,
+          },
+        },
+        {
+          id: "7D7DDD461E1E6C62",
+          type: "item",
+          item: {
+            id: "voidscape:ichor",
+            count: 1,
+          },
+        },
+        {
+          id: "187B0168E2F12D9A",
+          type: "item",
+          item: {
+            id: "voidscape:strange_pearl",
+            count: 1,
+          },
+        },
+        {
+          id: "8BE8D44D99C70F07",
+          type: "item",
+          item: {
+            id: "voidscape:astral_crystal",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      x: 0.0,
+      y: 4.5,
+      dependencies: [
+        "B32D3112FE3B51B4",
+      ],
+      size: 1.0,
+      id: "41FD3EF40E3A59F9",
+      tasks: [
+        {
+          id: "DE7F60270E64704C",
+          type: "checkmark",
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "voidscape:voidic_template",
+        count: 1,
+      },
+      x: 0.0,
+      y: 6.75,
+      dependencies: [
+        "41FD3EF40E3A59F9",
+      ],
+      size: 1.0,
+      id: "AFB763BF70B58482",
+      tasks: [
+        {
+          id: "077278A217807BE3",
+          type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "26246287ACA84220",
+          type: "item",
+          item: {
+            id: "voidscape:voidic_template",
+            count: 1,
+          },
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "voidscape:astral_helmet",
+        count: 1,
+      },
+      x: 0.0,
+      y: 9.0,
+      dependencies: [
+        "AFB763BF70B58482",
+      ],
+      size: 1.0,
+      id: "30BC4F017D897CEC",
+      tasks: [
+        {
+          id: "D2C7E8AA5FD63BDF",
+          type: "item",
+          item: {
+            id: "voidscape:astral_helmet",
+            count: 1,
+          },
+        },
+      ],
+    },
+  ],
+  quest_links: [
+  ],
+  images: [
+  ],
+}

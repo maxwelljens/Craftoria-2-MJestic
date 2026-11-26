@@ -1578,6 +1578,14 @@
     "curseForgeHash": 771585838,
     "modrinthHash": "7b38083c17e9b288555092f0401f50619d7738ed"
   },
+  "The_Undergarden-26.1.2-0.9.8.jar": {
+    "jarName": "The_Undergarden-26.1.2-0.9.8.jar",
+    "modId": "undergarden",
+    "name": "The Undergarden",
+    "version": "0.9.8",
+    "curseForgeHash": 1745006978,
+    "modrinthHash": "4f5dd5f11981b691fa8063d2c839a6ff8fbee3fe"
+  },
   "titanium-26.1.2-4.0.8.jar": {
     "jarName": "titanium-26.1.2-4.0.8.jar",
     "modId": "titanium",
@@ -1641,6 +1649,14 @@
     "version": "2.6.22+26.1.2",
     "curseForgeHash": 2912769264,
     "modrinthHash": "10fe776a2646ec8157791d364eea45d103780764"
+  },
+  "Voidscape-26.1.2-1.11.660.jar": {
+    "jarName": "Voidscape-26.1.2-1.11.660.jar",
+    "modId": "voidscape",
+    "name": "Voidscape",
+    "version": "26.1.2-1.11.660",
+    "curseForgeHash": 489151880,
+    "modrinthHash": "8e0626dfc10fc63ba4d402f8fb049f3e2c0ee7e8"
   },
   "wakes-26.1.2-NeoForge-1.4.1.jar": {
     "jarName": "wakes-26.1.2-NeoForge-1.4.1.jar",

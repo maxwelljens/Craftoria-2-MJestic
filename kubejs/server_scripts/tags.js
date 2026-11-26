@@ -273,7 +273,7 @@ ServerEvents.tags('fluid', e => {
 
 ServerEvents.tags('entity_type', e => {
 
-  e.add('craftoria:mob_blacklist', ['artifacts:mimic', 'minecraft:warden', '#c:bosses', '#neoforge:bosses']);
+  e.add('craftoria:mob_blacklist', ['artifacts:mimic', 'minecraft:warden', 'voidscape:voids_wrath', 'voidscape:corrupted_pawn', 'voidscape:null_servant', 'undergarden:forgotten_guardian', '#c:bosses', '#neoforge:bosses']);
 
   /*
   e.add('justdirethings:creature_catcher_deny', ['ars_nouveau:dummy']);

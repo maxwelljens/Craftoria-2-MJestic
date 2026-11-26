@@ -714,7 +714,7 @@ hash = "b6c118018a9061cc19cec83ee8cb33443803420afd37463954184a2989b1e01f"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "83b1ef74587d1706102ef46596c6ade1e43d97eca6d98947e416b3479e81a9f4"
+hash = "9220054b74d31e90ffcc3d2fd7d656e76114f405e2bafd8d897c988731c9453d"
 
 [[files]]
 file = "config/crash_assistant/scripts/log_analysis/example.jexl"
@@ -1281,6 +1281,14 @@ file = "config/ftbquests/quests/chapters/Powah.json5"
 hash = "e6b08aee34a3012006c8b2bde7f52070093e1b33da23f455a06d772d587b824b"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/Undergarden.json5"
+hash = "9c94d7f1e9e8871ba862bc1052f062af3eb9aa0266ac28ca1cd51a7c4ac9133e"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/Voidscape.json5"
+hash = "06463c7da76ec11d54487b9fad822562d46935653bc85f2c4290e8493e4a0ad9"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/getting_started.json5"
 hash = "88163e1f81d7ef0a13893883c60d7680c97c4fa751f35525d073b0fa7d055584"
 
@@ -1290,7 +1298,7 @@ hash = "fe8e8c43b6ecd27542f0a3e0fb89c6dca27752c0806e4c5ebd89d163ec55ab7b"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapter.json5"
-hash = "cb9191227842e9df683948e4b520c85ed156fa54840e4c584a01c32d855dbb51"
+hash = "2fbc9b52e5ceab5692fb7f456c97ae7ed9550e8f0bb405af5356b3a1c872eceb"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapter_group.json5"
@@ -1315,6 +1323,14 @@ hash = "46fed133b5a42c65b209831ad910f89c41e08a500686b8b36216b3611ea012ed"
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/Powah.json5"
 hash = "fa876b28d955f1f42084063e561101a9abdc5fa3cf62e845b3ab78e2cf0ce66d"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/Undergarden.json5"
+hash = "6655f53b02207c167281914864b3d495213ff2972ecf77b7df2a2c3ea35abd49"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us/chapters/Voidscape.json5"
+hash = "8a8c833331a33c86077e720cafba3a5202119e5d0dfac1a1aa455d8aa92becd5"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us/chapters/getting_started.json5"
@@ -1554,7 +1570,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "92f78d457f4e147ede5def656705ebd1e9af8accb50024a8684d262d43150c0a"
+hash = "12ac7ca35b914073083dc7d442c7c557fc20633cf6ae14e6682f15b1859df47e"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -1750,7 +1766,7 @@ hash = "781c69bd9cc6ee27d4649bfd82425ee978fa88858fc9660e1036b981499cb42a"
 
 [[files]]
 file = "config/neovitae/materials.json"
-hash = "88d584a2533ff0b316745f95365aad59e95b3a883139e819780a2b4818d8f6ef"
+hash = "15e8467505ea584cfdb9a6fd27d0843198ecd9b8511e20bfcce58566d05d5af9"
 
 [[files]]
 file = "config/nerb-common.json5"
@@ -1890,7 +1906,7 @@ hash = "9ce4f0cc2c6676ee95dd9cba85cb28e11ab1933a71838bb5fe8927d5d2af43eb"
 
 [[files]]
 file = "config/reskillable/skill_locks.json"
-hash = "80836deeb0762d96b1d1b1e2db95e8c2abc02b4d1bfdd603a6c8365e722d6fbe"
+hash = "a6c1bd2fe2b4d959fd1bde67bc24edc877bd2f3318e65cc684036054050d908f"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -1898,7 +1914,7 @@ hash = "e8547cf8cd256e130847927a81f72bd939617656536361b945c1a571e9da71bd"
 
 [[files]]
 file = "config/sdrp-client.json5"
-hash = "163648f648176cd643c541b0a393b6ad736314778be6f4bcaee8fa97616140eb"
+hash = "cfac3941cddc92dd9a67dfa401aa2e2cf6e08ec0c76f79f730b9aa6dff8a3c8d"
 
 [[files]]
 file = "config/selling_bin-client.toml"
@@ -2065,6 +2081,10 @@ file = "config/trender.json"
 hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
 
 [[files]]
+file = "config/undergarden-common.toml"
+hash = "ed4ce324468d2888a384a893bec56252cad57574e4de8f17d85c6eaf4fc73da5"
+
+[[files]]
 file = "config/utilitarian-client.toml"
 hash = "7103101051ec4e1b113c13f8af7ded5b9460ed72f3536a3c74abb57bc9d07742"
 
@@ -2093,6 +2113,10 @@ file = "config/vanilla_structures/toggle_structure_config.json5"
 hash = "a50b4ca77d21ae105e68560c1af694125ea06360374c82e87f4da54b7ecfa51d"
 
 [[files]]
+file = "config/voidscape-common.toml"
+hash = "ec3555998573bb366a4395a9340d0ce58bc6316021ef68e5df4aaf81e3c3e93f"
+
+[[files]]
 file = "config/wakes-client.toml"
 hash = "532fdf0a92fe464449796d8a86567bac13ba30f900f88a9e26e44f3d4baa89ca"
 
@@ -2102,7 +2126,7 @@ hash = "8ba8caf036bac59033157842f7812cf3eca3434a02d2e7e59648214fe42c48fc"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "8be9151ce8ea7b42e358a3d2ee8ff7ba402c77e29ee0334689c80860cc44c626"
+hash = "319755ce36a48ec0485be7b492870e87df993d6744ecdb9362e077f715b75d65"
 
 [[files]]
 file = "config/welcomemessage.json5"
@@ -2142,7 +2166,7 @@ hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
-hash = "81f2a9c21c022314e8453440af7e21027f0686a1cdc1d4ae4de51c6bed4d7bec"
+hash = "aba76fe72bce1743a4918456672dfade425873ebb71e88c799c2d7a88634365b"
 
 [[files]]
 file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
@@ -2166,7 +2190,7 @@ hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
 
 [[files]]
 file = "config/xaero/world-map/profiles/default.cfg"
-hash = "5422abf9c83fedef6509144293fad20f588d4bb6ce0cf1af78cbcd2bcd0d2ccf"
+hash = "293bdcf12128e336cdf157a25f97fc600754c87282d8544b01bca46f8d82acca"
 
 [[files]]
 file = "config/xaero/world-map/server_profiles/default.cfg"
@@ -3242,7 +3266,7 @@ hash = "1cc9a80da10d2f7e31972445837a12916d74276064c4b73f36712e7d0e78263f"
 
 [[files]]
 file = "kubejs/assets/ftbquests/ftb_quests_theme.txt"
-hash = "4207a85a67a80119aadae7464f22a9c15ca2880a82f8f9330addd1de9a45c5f6"
+hash = "90c4d0582250bbf5a185f9861d9f7442dd9fa67884b64a2da24a8e634cd8af16"
 
 [[files]]
 file = "kubejs/assets/ftbquests/textures/block/water_still_opaque.png"
@@ -3570,7 +3594,7 @@ hash = "599a226277da90b22cd4d56fbacdb697c0d74585e365fe8bc62de8a8a3304b45"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "5bf381a8cce8143944d679fd8edfd7ba99be4b61bc3b9cfb867387b3dc6a8b8c"
+hash = "4cceff9c4ef287c945997c8486ad0f95bafec350b6e56511d78494af522f7683"
 
 [[files]]
 file = "kubejs/startup_scripts/Items.js"
@@ -4562,6 +4586,11 @@ hash = "1242e8f4b59ebf61f3a1260a60e256d96e2aaed38315feeb41e4bdf4e975c28b"
 metafile = true
 
 [[files]]
+file = "mods/the-undergarden.pw.toml"
+hash = "57f6a3a785d007652e2ea7a8c38f3ded91d242a45eb9a5555420ac6cf7dd52da"
+metafile = true
+
+[[files]]
 file = "mods/titanium.pw.toml"
 hash = "fe3b552adaec3cacc49d575290db766809eb4de7ed9c5f51abc4a2f8bd33f723"
 metafile = true
@@ -4599,6 +4628,11 @@ metafile = true
 [[files]]
 file = "mods/utilitarian.pw.toml"
 hash = "8f626f232b05da59a35c6227abca5c605a4c926df79ceab3ee8becb27c65860d"
+metafile = true
+
+[[files]]
+file = "mods/voidscape.pw.toml"
+hash = "b1e3785253ad1cf2670fe9a22394c2e9c3dad34275205cbd25e7d195cdf42fed"
 metafile = true
 
 [[files]]

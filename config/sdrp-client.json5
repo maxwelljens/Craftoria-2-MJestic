@@ -102,6 +102,20 @@
       imageKey: "{{dimension.path}}",
       prefixWithIn: true,
     },
+    {
+      matcher: "exact@undergarden:undergarden",
+      message: "Exploring The Undergarden",
+      imageName: "{{dimension.name}}",
+      imageKey: "{{dimension.path}}",
+      prefixWithIn: false,
+    },
+    {
+      matcher: "exact@voidscape:void",
+      message: "Adrift in the Void",
+      imageName: "{{dimension.name}}",
+      imageKey: "{{dimension.path}}",
+      prefixWithIn: false,
+    },
   ],
   // If you wish to disable Discord Rich Presence, set this to false.
   enabled: true,
