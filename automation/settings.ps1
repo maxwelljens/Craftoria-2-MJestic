@@ -26,11 +26,11 @@ $MODPACK_NAME = "craftoria-2-mjestic"
 $CLIENT_NAME = "Craftoria 2: MJestic"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "0.11.0"
+$MODPACK_VERSION = "0.11.1"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "0.10.1"
+$LAST_MODPACK_VERSION = "0.11.0"
 
 # Which modloader the modpack uses
 # Use proper capitalization for display (e.g., "NeoForge", "Fabric", "Forge")
