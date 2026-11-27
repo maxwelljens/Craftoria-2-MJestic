@@ -961,6 +961,10 @@ file = "config/ecologics-common.toml"
 hash = "43d85eee37049a4624e00b20be7d5123b4df52e1c8cd67be9c6e1253089dcd9c"
 
 [[files]]
+file = "config/efallingtrees_common.json"
+hash = "b62a4c50a5d3d2112243420de6f9c73f52ac7cfd3413dca85d67ec26fb676856"
+
+[[files]]
 file = "config/elevatorid-server.toml"
 hash = "078b801a1c827b779c4c67b1144c5c56e8059391e812874eae5ef7551639ee30"
 
@@ -1358,7 +1362,7 @@ hash = "f719c0195e90a99b3651a0bf4eefd2c433ac809f3aee2a800f46fd571ce895c2"
 
 [[files]]
 file = "config/ftbultimine-server.json5"
-hash = "9ce0c9ce2b31b2925fd55d43402aca61d4306bb3381a768f1757c12736a38ff8"
+hash = "8faf9f456b2a0c92b7dd7ddceae46090a0fa9f1cb54f3a21464d1adc0a5862f6"
 
 [[files]]
 file = "config/functionalstorage/functionalstorage-client.toml"
