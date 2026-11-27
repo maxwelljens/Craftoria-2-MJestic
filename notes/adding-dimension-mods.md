@@ -31,8 +31,13 @@ research).
   gathering, hoes→farming, armor/shields→defense, magic items→magic.
   Creative-mode players bypass locks (by design). Admin: `/skills set <player>
   <skill> <level>`, `/skills reload`, `/skills scanmod <modid>`.
-- **Enhanced Celestials 2** (`config/lunar-common.toml`) — random world-change
-  events (Blood/Crimson/Bad-Omen moons, 40% of nights). Not tier-gated.
+- **Enhanced Celestials 2** — random lunar events; fully **datapack-driven**
+  (`data/<ns>/enhancedcelestials2core/lunar/…`), not config-driven. Its shipped
+  Blood Moon multiplies monster spawns ×2.25 (`spawn_category_multiplier`); the
+  `event_modifier` system can inject spawn-table entries per event. Not
+  tier-gated. NOTE: `config/lunar-common.toml` seen in old checkouts is **stale
+  config from the uninstalled mod "Lunar"** (Mrbysco) — its blood-moon weights /
+  `crimsonReplacements` claims are NOT this pack's behaviour (removed in v0.12.0).
   Illager Invasion likewise independent.
 - **Neo Vitae** (`config/neovitae/materials.json`) — dynamically generates
   ore-processing chains (fragment→gravel→dust→smelt). Schema safely handles
