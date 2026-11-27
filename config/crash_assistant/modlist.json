@@ -5,6 +5,14 @@
     "name": "neoforge",
     "version": "neoforge-26.1.2.97"
   },
+  "actual_portals-2.0.0-neoforge+26.1.2.jar": {
+    "jarName": "actual_portals-2.0.0-neoforge+26.1.2.jar",
+    "modId": "actual_portals",
+    "name": "ActualPortals",
+    "version": "2.0.0",
+    "curseForgeHash": 4047902976,
+    "modrinthHash": "6cf9f16fc5e173bb28c2850ea16837c28e55ca1f"
+  },
   "AdvancedAE-26.1.7.jar": {
     "jarName": "AdvancedAE-26.1.7.jar",
     "modId": "advanced_ae",
@@ -301,6 +309,14 @@
     "curseForgeHash": 477178162,
     "modrinthHash": "ff7f041e02ac9f3d6c844544aceaaa9f0643d888"
   },
+  "cleanswing-1.9-26.1.jar": {
+    "jarName": "cleanswing-1.9-26.1.jar",
+    "modId": "cleanswing",
+    "name": "Clean Swing",
+    "version": "1.9.1",
+    "curseForgeHash": 1426879795,
+    "modrinthHash": "8737d0f0f3fa73642ffa5697ee1fc6561712df8b"
+  },
   "cloth-config-26.1.154.jar": {
     "jarName": "cloth-config-26.1.154.jar",
     "modId": "cloth_config",
@@ -316,6 +332,14 @@
     "version": "26.1.2.1",
     "curseForgeHash": 804253264,
     "modrinthHash": "52d25d1022abe96b3b73ab6706558bff99338ada"
+  },
+  "codxlib-1.6.1-neoforge+26.1.2.jar": {
+    "jarName": "codxlib-1.6.1-neoforge+26.1.2.jar",
+    "modId": "codxlib",
+    "name": "CodxLib",
+    "version": "1.6.1",
+    "curseForgeHash": 83543957,
+    "modrinthHash": "c9ae1ff7b98cd4a80ee65119cd3a948f5e38b618"
   },
   "collective-26.1.2-8.32.jar": {
     "jarName": "collective-26.1.2-8.32.jar",
@@ -476,6 +500,14 @@
     "version": "2.1.1",
     "curseForgeHash": 3780203868,
     "modrinthHash": "bbaa93d92016fc43a335e2eecbe216d239701ca4"
+  },
+  "EasyAnvils-v26.1.4-mc26.1.x-NeoForge.jar": {
+    "jarName": "EasyAnvils-v26.1.4-mc26.1.x-NeoForge.jar",
+    "modId": "easyanvils",
+    "name": "Easy Anvils",
+    "version": "26.1.4",
+    "curseForgeHash": 2687815881,
+    "modrinthHash": "0f1e2237de44b43a18a175c4597da0db55d29f47"
   },
   "ecliptic-seasons-serene-api-bridge-26.2-neoforge-21.11.0.4-patch4-1.jar": {
     "jarName": "ecliptic-seasons-serene-api-bridge-26.2-neoforge-21.11.0.4-patch4-1.jar",
@@ -1633,6 +1665,14 @@
     "version": "26.1.2-0.22.0",
     "curseForgeHash": 1107654431,
     "modrinthHash": "38bb98d0b8b734dbed0dc727a288b15bf1a1da36"
+  },
+  "VisualWorkbench-v26.1.0-mc26.1.x-NeoForge.jar": {
+    "jarName": "VisualWorkbench-v26.1.0-mc26.1.x-NeoForge.jar",
+    "modId": "visualworkbench",
+    "name": "Visual Workbench",
+    "version": "26.1.0",
+    "curseForgeHash": 3158199645,
+    "modrinthHash": "7a661804194a8688beba1c42d0c334fcb61bea1d"
   },
   "voicechat-neoforge-2.6.22+26.1.2.jar": {
     "jarName": "voicechat-neoforge-2.6.22+26.1.2.jar",

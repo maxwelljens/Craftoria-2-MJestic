@@ -2,6 +2,7 @@
 
 ## Mods
 
+  * [actual_portals-2.0.0-neoforge+26.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/actual-portals/files/8671206) (by [CodxIO](https://www.curseforge.com/members/CodxIO/projects))
   * [AdvancedAE-26.1.7.jar](https://www.curseforge.com/minecraft/mc-mods/advancedae/files/8603081) (by [pedroksl](https://www.curseforge.com/members/pedroksl/projects))
   * [ae2importexportcard-26.1.2-2.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/ae2-import-export-card/files/8519408) (by [Ultramegaaa](https://www.curseforge.com/members/Ultramegaaa/projects))
   * [AE2NetworkAnalyzer-26.1-1.0.0-neoforge.jar](https://www.curseforge.com/minecraft/mc-mods/ae2-network-analyser/files/8127472) (by [GlodBlock](https://www.curseforge.com/members/GlodBlock/projects))
@@ -39,8 +40,10 @@
   * [chat_heads-1.2.8-neoforge-26.1.jar](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files/8610121) (by [dzwdz](https://www.curseforge.com/members/dzwdz/projects))
   * [chatanimation-neoforge-1.3.0+mc26.1.jar](https://www.curseforge.com/minecraft/mc-mods/chatanimation/files/8375990) (by [ezzenix1](https://www.curseforge.com/members/ezzenix1/projects))
   * [chisel-26.1.2.17.jar](https://www.curseforge.com/minecraft/mc-mods/chisel-3/files/8688521) (by [Cricket](https://www.curseforge.com/members/Cricket/projects))
+  * [cleanswing-1.9-26.1.jar](https://www.curseforge.com/minecraft/mc-mods/clean-swing-through-grass/files/7934502) (by [Raycoms](https://www.curseforge.com/members/Raycoms/projects))
   * [cloth-config-26.1.154.jar](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files/7817583) (by [shedaniel](https://www.curseforge.com/members/shedaniel/projects))
   * [Clumps-neoforge-26.1.2-26.1.2.1.jar](https://www.curseforge.com/minecraft/mc-mods/clumps/files/7911758) (by [Jaredlll08](https://www.curseforge.com/members/Jaredlll08/projects))
+  * [codxlib-1.6.1-neoforge+26.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/codxlib/files/8893402) (by [CodxIO](https://www.curseforge.com/members/CodxIO/projects))
   * [collective-26.1.2-8.32.jar](https://www.curseforge.com/minecraft/mc-mods/collective/files/8317567) (by [Serilum](https://www.curseforge.com/members/Serilum/projects))
   * [configured-neoforge-26.1.2-2.7.5.jar](https://www.curseforge.com/minecraft/mc-mods/configured/files/7943180) (by [MrCrayfish](https://www.curseforge.com/members/MrCrayfish/projects))
   * [ConstructionSticks-26.1.2-3.1.4.jar](https://www.curseforge.com/minecraft/mc-mods/construction-sticks/files/8625982) (by [Mrbysco](https://www.curseforge.com/members/Mrbysco/projects))
@@ -61,6 +64,7 @@
   * [defaultoptions-neoforge-26.1.2-26.1.2.2.jar](https://www.curseforge.com/minecraft/mc-mods/default-options/files/8498224) (by [BlayTheNinth](https://www.curseforge.com/members/BlayTheNinth/projects))
   * [DimStorage-26.1.2-10.0.1.jar](https://www.curseforge.com/minecraft/mc-mods/dimstorage/files/7961622) (by [3divad99](https://www.curseforge.com/members/3divad99/projects))
   * [disconnect-packet-fix-neoforge-2.1.1.jar](https://www.curseforge.com/minecraft/mc-mods/disconnect-packet-fix/files/8173380) (by [ascpixi](https://www.curseforge.com/members/ascpixi/projects))
+  * [EasyAnvils-v26.1.4-mc26.1.x-NeoForge.jar](https://www.curseforge.com/minecraft/mc-mods/easy-anvils/files/8776939) (by [Fuzs](https://www.curseforge.com/members/Fuzs/projects))
   * [ecliptic-seasons-serene-api-bridge-26.2-neoforge-21.11.0.4-patch4-1.jar](https://www.curseforge.com/minecraft/mc-mods/serene-seasons-api-stub-ecliptic-seasons-bridge/files/8375713) (by [joe_vettek](https://www.curseforge.com/members/joe_vettek/projects))
   * [EclipticSeasons-26.1.2-neoforge-0.14.99-beta-2.jar](https://www.curseforge.com/minecraft/mc-mods/ecliptic-seasons/files/8690433) (by [joe_vettek](https://www.curseforge.com/members/joe_vettek/projects))
   * [EclipticSeasons-Bundles-0.18.0.jar](https://www.curseforge.com/minecraft/mc-mods/ecliptic-seasons-bundles/files/8350348) (by [joe_vettek](https://www.curseforge.com/members/joe_vettek/projects))
@@ -207,6 +211,7 @@
   * [transmog-neoforge-1.8.0+26.1.jar](https://www.curseforge.com/minecraft/mc-mods/transmog/files/8125263) (by [Hidoni](https://www.curseforge.com/members/Hidoni/projects))
   * [uilib-neoforge-20.1.4.jar](https://www.curseforge.com/minecraft/mc-mods/ui/files/8371384) (by [DAQEM](https://www.curseforge.com/members/DAQEM/projects))
   * [utilitarian-26.1.2-0.22.0.jar](https://www.curseforge.com/minecraft/mc-mods/utilitarian/files/8216931) (by [LobsterJonn](https://www.curseforge.com/members/LobsterJonn/projects))
+  * [VisualWorkbench-v26.1.0-mc26.1.x-NeoForge.jar](https://www.curseforge.com/minecraft/mc-mods/visual-workbench/files/8004807) (by [Fuzs](https://www.curseforge.com/members/Fuzs/projects))
   * [voicechat-neoforge-2.6.22+26.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/8601510) (by [henkelmax](https://www.curseforge.com/members/henkelmax/projects))
   * [wakes-26.1.2-NeoForge-1.4.1.jar](https://www.curseforge.com/minecraft/mc-mods/wakes-reforged/files/8657119) (by [Project8gbDeRam](https://www.curseforge.com/members/Project8gbDeRam/projects))
   * [waveycapes-neoforge-1.10.2-mc26.1.2.jar](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files/8294892) (by [tr7zw](https://www.curseforge.com/members/tr7zw/projects))

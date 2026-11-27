@@ -714,7 +714,7 @@ hash = "b6c118018a9061cc19cec83ee8cb33443803420afd37463954184a2989b1e01f"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "83b1ef74587d1706102ef46596c6ade1e43d97eca6d98947e416b3479e81a9f4"
+hash = "319c40d28f845f7c53bd94cfbb0477a8bd68e27d7ec693b37b339803e1d7952e"
 
 [[files]]
 file = "config/crash_assistant/scripts/log_analysis/example.jexl"
@@ -3565,6 +3565,10 @@ file = "kubejs/server_scripts/Mods/AE2/cables.js"
 hash = "fee7d81f293548bb16a06a3300122cb754be7c925e97ade4fb00cf3e46d8dfdf"
 
 [[files]]
+file = "kubejs/server_scripts/Mods/Apotheosis/EasyAnvilsCompat.js"
+hash = "08a1986b664bf8b48153bd670eb80622060d37669c21f2c245a8b5d9ed0155e5"
+
+[[files]]
 file = "kubejs/server_scripts/Mods/Craftoria/ConflictFixes.js"
 hash = "599a226277da90b22cd4d56fbacdb697c0d74585e365fe8bc62de8a8a3304b45"
 
@@ -3575,6 +3579,11 @@ hash = "5bf381a8cce8143944d679fd8edfd7ba99be4b61bc3b9cfb867387b3dc6a8b8c"
 [[files]]
 file = "kubejs/startup_scripts/Items.js"
 hash = "3ee1ea122794a1193348f475d687db8b7cb51ef70879dbab212517bb54055800"
+
+[[files]]
+file = "mods/actual-portals.pw.toml"
+hash = "9856977f9b660e7854ea3cc9e231a362def05eda4e00435859cfa9cc0ec11ef4"
+metafile = true
 
 [[files]]
 file = "mods/advancedae.pw.toml"
@@ -3762,6 +3771,11 @@ hash = "ae831987761c0628e9ca7a11b84af79bf55dc917436a4a2acd69eeea8b823167"
 metafile = true
 
 [[files]]
+file = "mods/clean-swing-through-grass.pw.toml"
+hash = "fe11586c53da9dc3982a8a36cbf37b5d479cec353822814d79a486ed3e972068"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d0fae735921d88b89506a481b8368899b0f694a31188d7447428e472e476184d"
 metafile = true
@@ -3769,6 +3783,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "430d0ebb018edf74670f7a2aafb5c02b9907cddfd726dd47ec406b534618c955"
+metafile = true
+
+[[files]]
+file = "mods/codxlib.pw.toml"
+hash = "e9e165819fd18b3a22b96fc9458f918477e8fbd1a9860c692b96e3ecdf2bc371"
 metafile = true
 
 [[files]]
@@ -3869,6 +3888,11 @@ metafile = true
 [[files]]
 file = "mods/disconnect-packet-fix.pw.toml"
 hash = "c6f1d809023067029e4164bb2b9aba01661dfa00b10d5989b234d279210c6ef4"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "5aa433a59e4764ab308d1bb345535caa905c1177a951e0ce911c61d3912afe46"
 metafile = true
 
 [[files]]
@@ -4599,6 +4623,11 @@ metafile = true
 [[files]]
 file = "mods/utilitarian.pw.toml"
 hash = "8f626f232b05da59a35c6227abca5c605a4c926df79ceab3ee8becb27c65860d"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "2701f8ead03ad1fe5cfc5d10064ded9405373346829236b8676aa6cdf682fd09"
 metafile = true
 
 [[files]]

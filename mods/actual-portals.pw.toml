@@ -1,0 +1,13 @@
+name = "ActualPortals"
+filename = "actual_portals-2.0.0-neoforge+26.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6cf9f16fc5e173bb28c2850ea16837c28e55ca1f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8671206
+project-id = 1643682
