@@ -589,6 +589,14 @@
     "curseForgeHash": 3877213477,
     "modrinthHash": "ab860f79d9e2c18e6e137a6f0873fa0155b28e01"
   },
+  "EnderZoology-v26.1.0-mc26.1.x-NeoForge.jar": {
+    "jarName": "EnderZoology-v26.1.0-mc26.1.x-NeoForge.jar",
+    "modId": "enderzoology",
+    "name": "Ender Zoology",
+    "version": "26.1.0",
+    "curseForgeHash": 3781512148,
+    "modrinthHash": "7916b0c636171acec6a873641e9bc794e0fb4de7"
+  },
   "Enhanced-Celestials-2-Core-NeoForge-26.1.2-3.0.3.0.jar": {
     "jarName": "Enhanced-Celestials-2-Core-NeoForge-26.1.2-3.0.3.0.jar",
     "modId": "enhancedcelestials2core",
@@ -1265,6 +1273,14 @@
     "version": "1.0.33+26.1.2",
     "curseForgeHash": 4021739345,
     "modrinthHash": "367471d98bef54c9c26f12410c71861683399155"
+  },
+  "MutantMonsters-v26.1.3-mc26.1.x-NeoForge.jar": {
+    "jarName": "MutantMonsters-v26.1.3-mc26.1.x-NeoForge.jar",
+    "modId": "mutantmonsters",
+    "name": "Mutant Monsters",
+    "version": "26.1.3",
+    "curseForgeHash": 2964761994,
+    "modrinthHash": "d462918ed8eac9e81aba94bc81fc5f44bb79217e"
   },
   "nanite-library-neoforge-26.1.2.6.jar": {
     "jarName": "nanite-library-neoforge-26.1.2.6.jar",

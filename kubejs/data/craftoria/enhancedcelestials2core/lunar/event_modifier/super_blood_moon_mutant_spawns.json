@@ -1,0 +1,16 @@
+{
+  "type": "enhancedcelestials2core:mob_spawn_settings",
+  "settings": {
+    "spawn_settings": {
+      "spawners": {
+        "monster": [
+          { "type": "mutantmonsters:mutant_zombie", "minCount": 1, "maxCount": 1, "weight": 5 },
+          { "type": "mutantmonsters:mutant_skeleton", "minCount": 1, "maxCount": 1, "weight": 5 },
+          { "type": "mutantmonsters:mutant_creeper", "minCount": 1, "maxCount": 1, "weight": 5 },
+          { "type": "mutantmonsters:mutant_enderman", "minCount": 1, "maxCount": 1, "weight": 1 }
+        ]
+      },
+      "spawn_costs": {}
+    }
+  }
+}

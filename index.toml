@@ -714,7 +714,7 @@ hash = "b6c118018a9061cc19cec83ee8cb33443803420afd37463954184a2989b1e01f"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "319c40d28f845f7c53bd94cfbb0477a8bd68e27d7ec693b37b339803e1d7952e"
+hash = "a203c223585132f547967d8aa1f82df517b5d0228be77898449a0bef0aebe576"
 
 [[files]]
 file = "config/crash_assistant/scripts/log_analysis/example.jexl"
@@ -1689,10 +1689,6 @@ file = "config/lootr-common.jsonc"
 hash = "4c58e0e5e487b639b0e1e7c8a3025d4124dc2c4e31559d22cbf675196c73ad16"
 
 [[files]]
-file = "config/lunar-common.toml"
-hash = "9992859d2c2b48857d4901b1721c0a5c534476f705c2debf963dd1ada4277eaa"
-
-[[files]]
 file = "config/maxhealthfix.json"
 hash = "f25e0012be339dc6020bc892faea1c9765466a16fd1bb4174c00d885270a9241"
 
@@ -1723,6 +1719,10 @@ hash = "7d2523a44a5458258880dd8c0b306331859fa155f73e704bdcbfcdac338c5510"
 [[files]]
 file = "config/moredragoneggs-server.toml"
 hash = "71e75da590def131ef484d184195a9b84f6879557117e5204fec4fa43f4290c4"
+
+[[files]]
+file = "config/mutantmonsters-common.toml"
+hash = "a755acd9f843306be9374f2765095c2a34ca5adea381d25dda48b5123a950887"
 
 [[files]]
 file = "config/naturescompass-client.toml"
@@ -3565,6 +3565,22 @@ file = "kubejs/config/web_server.json"
 hash = "9faa6292bbb795c9b756ebae4a7161abf839f2fc921631160019751b50a27dc7"
 
 [[files]]
+file = "kubejs/data/craftoria/enhancedcelestials2core/lunar/event_modifier/blood_moon_mutant_spawns.json"
+hash = "2af6a341b78f4a6ed72cbb3caedfe4574f3e36ec63743d5d95bf02d34f0851f5"
+
+[[files]]
+file = "kubejs/data/craftoria/enhancedcelestials2core/lunar/event_modifier/super_blood_moon_mutant_spawns.json"
+hash = "2af6a341b78f4a6ed72cbb3caedfe4574f3e36ec63743d5d95bf02d34f0851f5"
+
+[[files]]
+file = "kubejs/data/enhancedcelestials2defaultlunarevents/enhancedcelestials2core/lunar/event/blood_moon.json"
+hash = "e7cf1f60d3d3ae1ac92f2ae31ae499ef8b22ce6c8154c30595397e8dc1c0dcf4"
+
+[[files]]
+file = "kubejs/data/enhancedcelestials2defaultlunarevents/enhancedcelestials2core/lunar/event/super_blood_moon.json"
+hash = "199d63b934a8292dd6b5cbd6304a7013ddcdde3ac74636f98bba7af07d6d1e85"
+
+[[files]]
 file = "kubejs/server_scripts/Mods/AE2/cables.js"
 hash = "fee7d81f293548bb16a06a3300122cb754be7c925e97ade4fb00cf3e46d8dfdf"
 
@@ -3575,6 +3591,10 @@ hash = "08a1986b664bf8b48153bd670eb80622060d37669c21f2c245a8b5d9ed0155e5"
 [[files]]
 file = "kubejs/server_scripts/Mods/Craftoria/ConflictFixes.js"
 hash = "599a226277da90b22cd4d56fbacdb697c0d74585e365fe8bc62de8a8a3304b45"
+
+[[files]]
+file = "kubejs/server_scripts/Mods/EnderZoology/SpawnGate.js"
+hash = "701e66ea3cf2f79148d9aa8fd43ef065b7ab00f664192862f1e2d1e53fdb844e"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
@@ -3932,6 +3952,11 @@ metafile = true
 [[files]]
 file = "mods/ender-io.pw.toml"
 hash = "c813f32090ced514247fc479ec803c4b7df12edc8cff41aa1feab171fa91fe31"
+metafile = true
+
+[[files]]
+file = "mods/ender-zoology.pw.toml"
+hash = "5ff5cc7bcb45a4bf16d94368f7a7735555eb6cc435e71294ebc5fb0abd0d9477"
 metafile = true
 
 [[files]]
@@ -4362,6 +4387,11 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "0249ac17a5a2efdf83c69c12e2aa477c86f7f6df5c447b810f6ad35f70486d1d"
+metafile = true
+
+[[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "1551b2289bcafeb5df02f9215d81f5ff64d134f89fd1a75ebd8737d45aa1653c"
 metafile = true
 
 [[files]]
